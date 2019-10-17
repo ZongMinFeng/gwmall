@@ -12,6 +12,7 @@
         <module>zuul</module>
         <module>gwmall-item</module>
         <module>gwmall-common</module>
+        <module>gwmall-upload</module>
     </modules>
     <packaging>pom</packaging>
 
