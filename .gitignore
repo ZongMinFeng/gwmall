@@ -1,9 +1,9 @@
 # Default ignored files
 .idea
-gwmall.iml
-eureka/eureka.iml
-gwmall-common/gwmall-common.iml
-gwmall-item/gwmall-item.iml
-gwmall-item/gwmall-item-interface/gwmall-item-interface.iml
-gwmall-item/gwmall-item-service/gwmall-item-service.iml
-zuul/zuul.iml
+#gwmall.iml
+#eureka/eureka.iml
+#gwmall-common/gwmall-common.iml
+#gwmall-item/gwmall-item.iml
+#gwmall-item/gwmall-item-interface/gwmall-item-interface.iml
+#gwmall-item/gwmall-item-service/gwmall-item-service.iml
+#zuul/zuul.iml
